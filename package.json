@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zombiepaladin/scrumtastic.git"
-  },
   "keywords": [
     "SCRUM",
     "software",
@@ -17,12 +13,8 @@
     "task",
     "board"
   ],
-  "author": "Nathan H. Bean",
+  "author": "Carrington Cooper",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zombiepaladin/scrumtastic/issues"
-  },
-  "homepage": "https://github.com/zombiepaladin/scrumtastic#readme",
   "dependencies": {
     "sqlite3": "3.1.8"
   }
